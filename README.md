@@ -1,8 +1,8 @@
-# 🎰 Connect Four
+# Connect Four 🎰
 
 A Connect Four game to explore multiple classes in Python. I created a class that represents the board for a game of Connect Four, and also an AI player that the user can play against.
 
-## 🎲 How Connect Four Works
+## How Connect Four Works 🎲
 
 Connect Four is a variation of tic-tac-toe played on a 6x7 rectangular board:
 
